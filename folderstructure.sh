@@ -7,12 +7,12 @@ echo "I will now setup your project folder, for you."
 echo "Hang tight..."
 mkdir $1
 cd $1
-mkdir 01_docs
-mkdir 02_guidelines_and_resources
-mkdir 03_wireframes_and_userflows
-mkdir 04_sketch
-mkdir 05_screen_mockups
-mkdir 06_assets
-mkdir 07_specs
-mkdir 07_feedback_and_review
+mkdir 01-docs
+mkdir 02-guidelines-and-resources
+mkdir 03-wireframes-and-userflows
+mkdir 04-sketch
+mkdir 05-screen-mockups
+mkdir 06-assets
+mkdir 07-specs
+mkdir 07-feedback-and-review
 ls -la
